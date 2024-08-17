@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "893721141733",
+    "project_id": "contactadapterpattern",
+    "storage_bucket": "contactadapterpattern.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893721141733:android:2ef3a20fa2bc0253700f0c",
+        "android_client_info": {
+          "package_name": "com.example.contactadapterpattern"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB56Hm64A740WNuK5Hy4lYIMY5AHo0Dr9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
